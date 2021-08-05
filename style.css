@@ -35,6 +35,16 @@ body {
     list-style: none;
     position: relative;
     width: 100%;
+    text-decoration: none;
+
+}
+
+.nav-link {
+    text-decoration: none;
+    cursor: pointer;
+    color: darkslategrey;
+    padding: 10px 30px;
+    display: block;
 }
 
 #main-doc {
